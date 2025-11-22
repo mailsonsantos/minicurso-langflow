@@ -3,11 +3,10 @@
     "edges": [
       {
         "animated": false,
-        "className": "",
         "data": {
           "sourceHandle": {
             "dataType": "CalculatorComponent",
-            "id": "CalculatorComponent-WkZvF",
+            "id": "CalculatorComponent-M9o39",
             "name": "component_as_tool",
             "output_types": [
               "Tool"
@@ -15,27 +14,26 @@
           },
           "targetHandle": {
             "fieldName": "tools",
-            "id": "Agent-wd1De",
+            "id": "Agent-PRXeJ",
             "inputTypes": [
               "Tool"
             ],
             "type": "other"
           }
         },
-        "id": "xy-edge__CalculatorComponent-WkZvF{œdataTypeœ:œCalculatorComponentœ,œidœ:œCalculatorComponent-WkZvFœ,œnameœ:œcomponent_as_toolœ,œoutput_typesœ:[œToolœ]}-Agent-wd1De{œfieldNameœ:œtoolsœ,œidœ:œAgent-wd1Deœ,œinputTypesœ:[œToolœ],œtypeœ:œotherœ}",
+        "id": "reactflow__edge-CalculatorComponent-M9o39{œdataTypeœ:œCalculatorComponentœ,œidœ:œCalculatorComponent-M9o39œ,œnameœ:œcomponent_as_toolœ,œoutput_typesœ:[œToolœ]}-Agent-PRXeJ{œfieldNameœ:œtoolsœ,œidœ:œAgent-PRXeJœ,œinputTypesœ:[œToolœ],œtypeœ:œotherœ}",
         "selected": false,
-        "source": "CalculatorComponent-WkZvF",
-        "sourceHandle": "{œdataTypeœ:œCalculatorComponentœ,œidœ:œCalculatorComponent-WkZvFœ,œnameœ:œcomponent_as_toolœ,œoutput_typesœ:[œToolœ]}",
-        "target": "Agent-wd1De",
-        "targetHandle": "{œfieldNameœ:œtoolsœ,œidœ:œAgent-wd1Deœ,œinputTypesœ:[œToolœ],œtypeœ:œotherœ}"
+        "source": "CalculatorComponent-M9o39",
+        "sourceHandle": "{œdataTypeœ:œCalculatorComponentœ,œidœ:œCalculatorComponent-M9o39œ,œnameœ:œcomponent_as_toolœ,œoutput_typesœ:[œToolœ]}",
+        "target": "Agent-PRXeJ",
+        "targetHandle": "{œfieldNameœ:œtoolsœ,œidœ:œAgent-PRXeJœ,œinputTypesœ:[œToolœ],œtypeœ:œotherœ}"
       },
       {
         "animated": false,
-        "className": "",
         "data": {
           "sourceHandle": {
             "dataType": "URLComponent",
-            "id": "URLComponent-oTEW7",
+            "id": "URLComponent-XlXvs",
             "name": "component_as_tool",
             "output_types": [
               "Tool"
@@ -43,55 +41,26 @@
           },
           "targetHandle": {
             "fieldName": "tools",
-            "id": "Agent-wd1De",
+            "id": "Agent-PRXeJ",
             "inputTypes": [
               "Tool"
             ],
             "type": "other"
           }
         },
-        "id": "xy-edge__URLComponent-oTEW7{œdataTypeœ:œURLComponentœ,œidœ:œURLComponent-oTEW7œ,œnameœ:œcomponent_as_toolœ,œoutput_typesœ:[œToolœ]}-Agent-wd1De{œfieldNameœ:œtoolsœ,œidœ:œAgent-wd1Deœ,œinputTypesœ:[œToolœ],œtypeœ:œotherœ}",
+        "id": "reactflow__edge-URLComponent-XlXvs{œdataTypeœ:œURLComponentœ,œidœ:œURLComponent-XlXvsœ,œnameœ:œcomponent_as_toolœ,œoutput_typesœ:[œToolœ]}-Agent-PRXeJ{œfieldNameœ:œtoolsœ,œidœ:œAgent-PRXeJœ,œinputTypesœ:[œToolœ],œtypeœ:œotherœ}",
         "selected": false,
-        "source": "URLComponent-oTEW7",
-        "sourceHandle": "{œdataTypeœ:œURLComponentœ,œidœ:œURLComponent-oTEW7œ,œnameœ:œcomponent_as_toolœ,œoutput_typesœ:[œToolœ]}",
-        "target": "Agent-wd1De",
-        "targetHandle": "{œfieldNameœ:œtoolsœ,œidœ:œAgent-wd1Deœ,œinputTypesœ:[œToolœ],œtypeœ:œotherœ}"
+        "source": "URLComponent-XlXvs",
+        "sourceHandle": "{œdataTypeœ:œURLComponentœ,œidœ:œURLComponent-XlXvsœ,œnameœ:œcomponent_as_toolœ,œoutput_typesœ:[œToolœ]}",
+        "target": "Agent-PRXeJ",
+        "targetHandle": "{œfieldNameœ:œtoolsœ,œidœ:œAgent-PRXeJœ,œinputTypesœ:[œToolœ],œtypeœ:œotherœ}"
       },
       {
         "animated": false,
-        "className": "",
-        "data": {
-          "sourceHandle": {
-            "dataType": "WikipediaComponent",
-            "id": "WikipediaComponent-uEuSr",
-            "name": "component_as_tool",
-            "output_types": [
-              "Tool"
-            ]
-          },
-          "targetHandle": {
-            "fieldName": "tools",
-            "id": "Agent-wd1De",
-            "inputTypes": [
-              "Tool"
-            ],
-            "type": "other"
-          }
-        },
-        "id": "xy-edge__WikipediaComponent-uEuSr{œdataTypeœ:œWikipediaComponentœ,œidœ:œWikipediaComponent-uEuSrœ,œnameœ:œcomponent_as_toolœ,œoutput_typesœ:[œToolœ]}-Agent-wd1De{œfieldNameœ:œtoolsœ,œidœ:œAgent-wd1Deœ,œinputTypesœ:[œToolœ],œtypeœ:œotherœ}",
-        "selected": false,
-        "source": "WikipediaComponent-uEuSr",
-        "sourceHandle": "{œdataTypeœ:œWikipediaComponentœ,œidœ:œWikipediaComponent-uEuSrœ,œnameœ:œcomponent_as_toolœ,œoutput_typesœ:[œToolœ]}",
-        "target": "Agent-wd1De",
-        "targetHandle": "{œfieldNameœ:œtoolsœ,œidœ:œAgent-wd1Deœ,œinputTypesœ:[œToolœ],œtypeœ:œotherœ}"
-      },
-      {
-        "animated": false,
-        "className": "",
         "data": {
           "sourceHandle": {
             "dataType": "ChatInput",
-            "id": "ChatInput-yTUqQ",
+            "id": "ChatInput-K44vJ",
             "name": "message",
             "output_types": [
               "Message"
@@ -99,27 +68,26 @@
           },
           "targetHandle": {
             "fieldName": "input_value",
-            "id": "Agent-wd1De",
+            "id": "Agent-PRXeJ",
             "inputTypes": [
               "Message"
             ],
             "type": "str"
           }
         },
-        "id": "xy-edge__ChatInput-yTUqQ{œdataTypeœ:œChatInputœ,œidœ:œChatInput-yTUqQœ,œnameœ:œmessageœ,œoutput_typesœ:[œMessageœ]}-Agent-wd1De{œfieldNameœ:œinput_valueœ,œidœ:œAgent-wd1Deœ,œinputTypesœ:[œMessageœ],œtypeœ:œstrœ}",
+        "id": "reactflow__edge-ChatInput-K44vJ{œdataTypeœ:œChatInputœ,œidœ:œChatInput-K44vJœ,œnameœ:œmessageœ,œoutput_typesœ:[œMessageœ]}-Agent-PRXeJ{œfieldNameœ:œinput_valueœ,œidœ:œAgent-PRXeJœ,œinputTypesœ:[œMessageœ],œtypeœ:œstrœ}",
         "selected": false,
-        "source": "ChatInput-yTUqQ",
-        "sourceHandle": "{œdataTypeœ:œChatInputœ,œidœ:œChatInput-yTUqQœ,œnameœ:œmessageœ,œoutput_typesœ:[œMessageœ]}",
-        "target": "Agent-wd1De",
-        "targetHandle": "{œfieldNameœ:œinput_valueœ,œidœ:œAgent-wd1Deœ,œinputTypesœ:[œMessageœ],œtypeœ:œstrœ}"
+        "source": "ChatInput-K44vJ",
+        "sourceHandle": "{œdataTypeœ:œChatInputœ,œidœ:œChatInput-K44vJœ,œnameœ:œmessageœ,œoutput_typesœ:[œMessageœ]}",
+        "target": "Agent-PRXeJ",
+        "targetHandle": "{œfieldNameœ:œinput_valueœ,œidœ:œAgent-PRXeJœ,œinputTypesœ:[œMessageœ],œtypeœ:œstrœ}"
       },
       {
         "animated": false,
-        "className": "",
         "data": {
           "sourceHandle": {
             "dataType": "Agent",
-            "id": "Agent-wd1De",
+            "id": "Agent-PRXeJ",
             "name": "response",
             "output_types": [
               "Message"
@@ -127,7 +95,7 @@
           },
           "targetHandle": {
             "fieldName": "input_value",
-            "id": "ChatOutput-CgCeF",
+            "id": "ChatOutput-sxzvv",
             "inputTypes": [
               "Data",
               "DataFrame",
@@ -136,18 +104,18 @@
             "type": "other"
           }
         },
-        "id": "xy-edge__Agent-wd1De{œdataTypeœ:œAgentœ,œidœ:œAgent-wd1Deœ,œnameœ:œresponseœ,œoutput_typesœ:[œMessageœ]}-ChatOutput-CgCeF{œfieldNameœ:œinput_valueœ,œidœ:œChatOutput-CgCeFœ,œinputTypesœ:[œDataœ,œDataFrameœ,œMessageœ],œtypeœ:œotherœ}",
+        "id": "reactflow__edge-Agent-PRXeJ{œdataTypeœ:œAgentœ,œidœ:œAgent-PRXeJœ,œnameœ:œresponseœ,œoutput_typesœ:[œMessageœ]}-ChatOutput-sxzvv{œfieldNameœ:œinput_valueœ,œidœ:œChatOutput-sxzvvœ,œinputTypesœ:[œDataœ,œDataFrameœ,œMessageœ],œtypeœ:œotherœ}",
         "selected": false,
-        "source": "Agent-wd1De",
-        "sourceHandle": "{œdataTypeœ:œAgentœ,œidœ:œAgent-wd1Deœ,œnameœ:œresponseœ,œoutput_typesœ:[œMessageœ]}",
-        "target": "ChatOutput-CgCeF",
-        "targetHandle": "{œfieldNameœ:œinput_valueœ,œidœ:œChatOutput-CgCeFœ,œinputTypesœ:[œDataœ,œDataFrameœ,œMessageœ],œtypeœ:œotherœ}"
+        "source": "Agent-PRXeJ",
+        "sourceHandle": "{œdataTypeœ:œAgentœ,œidœ:œAgent-PRXeJœ,œnameœ:œresponseœ,œoutput_typesœ:[œMessageœ]}",
+        "target": "ChatOutput-sxzvv",
+        "targetHandle": "{œfieldNameœ:œinput_valueœ,œidœ:œChatOutput-sxzvvœ,œinputTypesœ:[œDataœ,œDataFrameœ,œMessageœ],œtypeœ:œotherœ}"
       }
     ],
     "nodes": [
       {
         "data": {
-          "id": "ChatInput-yTUqQ",
+          "id": "ChatInput-K44vJ",
           "node": {
             "base_classes": [
               "Message"
@@ -443,269 +411,21 @@
           "showNode": false,
           "type": "ChatInput"
         },
-        "dragging": false,
-        "id": "ChatInput-yTUqQ",
+        "id": "ChatInput-K44vJ",
         "measured": {
           "height": 66,
           "width": 192
         },
         "position": {
-          "x": 597.0603826944244,
-          "y": 807.3299254827523
+          "x": 484.5870533446451,
+          "y": 250.83031446472535
         },
         "selected": false,
         "type": "genericNode"
       },
       {
         "data": {
-          "id": "WikipediaComponent-uEuSr",
-          "node": {
-            "base_classes": [
-              "Data",
-              "DataFrame"
-            ],
-            "beta": false,
-            "conditional_paths": [],
-            "custom_fields": {},
-            "description": "Call Wikipedia API.",
-            "display_name": "Wikipedia",
-            "documentation": "",
-            "edited": false,
-            "field_order": [
-              "input_value",
-              "lang",
-              "k",
-              "load_all_available_meta",
-              "doc_content_chars_max"
-            ],
-            "frozen": false,
-            "icon": "Wikipedia",
-            "legacy": false,
-            "lf_version": "1.4.3",
-            "metadata": {},
-            "minimized": false,
-            "output_types": [],
-            "outputs": [
-              {
-                "allows_loop": false,
-                "cache": true,
-                "display_name": "Toolset",
-                "hidden": false,
-                "method": "to_toolkit",
-                "name": "component_as_tool",
-                "options": null,
-                "required_inputs": null,
-                "selected": "Tool",
-                "tool_mode": true,
-                "types": [
-                  "Tool"
-                ],
-                "value": "__UNDEFINED__"
-              }
-            ],
-            "pinned": false,
-            "template": {
-              "_type": "Component",
-              "code": {
-                "advanced": true,
-                "dynamic": true,
-                "fileTypes": [],
-                "file_path": "",
-                "info": "",
-                "list": false,
-                "load_from_db": false,
-                "multiline": true,
-                "name": "code",
-                "password": false,
-                "placeholder": "",
-                "required": true,
-                "show": true,
-                "title_case": false,
-                "type": "code",
-                "value": "from langchain_community.utilities.wikipedia import WikipediaAPIWrapper\n\nfrom langflow.custom import Component\nfrom langflow.inputs import BoolInput, IntInput, MessageTextInput, MultilineInput\nfrom langflow.io import Output\nfrom langflow.schema import Data, DataFrame\nfrom langflow.schema.message import Message\n\n\nclass WikipediaComponent(Component):\n    display_name = \"Wikipedia\"\n    description = \"Call Wikipedia API.\"\n    icon = \"Wikipedia\"\n\n    inputs = [\n        MultilineInput(\n            name=\"input_value\",\n            display_name=\"Input\",\n            tool_mode=True,\n        ),\n        MessageTextInput(name=\"lang\", display_name=\"Language\", value=\"en\"),\n        IntInput(name=\"k\", display_name=\"Number of results\", value=4, required=True),\n        BoolInput(name=\"load_all_available_meta\", display_name=\"Load all available meta\", value=False, advanced=True),\n        IntInput(\n            name=\"doc_content_chars_max\", display_name=\"Document content characters max\", value=4000, advanced=True\n        ),\n    ]\n\n    outputs = [\n        Output(display_name=\"Data\", name=\"data\", method=\"fetch_content\"),\n        Output(display_name=\"DataFrame\", name=\"dataframe\", method=\"as_dataframe\"),\n    ]\n\n    def fetch_content(self) -> list[Data]:\n        wrapper = self._build_wrapper()\n        docs = wrapper.load(self.input_value)\n        data = [Data.from_document(doc) for doc in docs]\n        self.status = data\n        return data\n\n    def fetch_content_text(self) -> Message:\n        data = self.fetch_content()\n        result_string = \"\"\n        for item in data:\n            result_string += item.text + \"\\n\"\n        self.status = result_string\n        return Message(text=result_string)\n\n    def _build_wrapper(self) -> WikipediaAPIWrapper:\n        return WikipediaAPIWrapper(\n            top_k_results=self.k,\n            lang=self.lang,\n            load_all_available_meta=self.load_all_available_meta,\n            doc_content_chars_max=self.doc_content_chars_max,\n        )\n\n    def as_dataframe(self) -> DataFrame:\n        \"\"\"Convert the Wikipedia results to a DataFrame.\n\n        Returns:\n            DataFrame: A DataFrame containing the Wikipedia results.\n        \"\"\"\n        data = self.fetch_content()\n        return DataFrame(data)\n"
-              },
-              "doc_content_chars_max": {
-                "_input_type": "IntInput",
-                "advanced": true,
-                "display_name": "Document content characters max",
-                "dynamic": false,
-                "info": "",
-                "list": false,
-                "list_add_label": "Add More",
-                "name": "doc_content_chars_max",
-                "placeholder": "",
-                "required": false,
-                "show": true,
-                "title_case": false,
-                "tool_mode": false,
-                "trace_as_metadata": true,
-                "type": "int",
-                "value": 500
-              },
-              "input_value": {
-                "_input_type": "MultilineInput",
-                "advanced": false,
-                "copy_field": false,
-                "display_name": "Input",
-                "dynamic": false,
-                "info": "",
-                "input_types": [
-                  "Message"
-                ],
-                "list": false,
-                "list_add_label": "Add More",
-                "load_from_db": false,
-                "multiline": true,
-                "name": "input_value",
-                "placeholder": "",
-                "required": false,
-                "show": true,
-                "title_case": false,
-                "tool_mode": true,
-                "trace_as_input": true,
-                "trace_as_metadata": true,
-                "type": "str",
-                "value": ""
-              },
-              "k": {
-                "_input_type": "IntInput",
-                "advanced": false,
-                "display_name": "Number of results",
-                "dynamic": false,
-                "info": "",
-                "list": false,
-                "list_add_label": "Add More",
-                "name": "k",
-                "placeholder": "",
-                "required": true,
-                "show": true,
-                "title_case": false,
-                "tool_mode": false,
-                "trace_as_metadata": true,
-                "type": "int",
-                "value": 2
-              },
-              "lang": {
-                "_input_type": "MessageTextInput",
-                "advanced": false,
-                "display_name": "Language",
-                "dynamic": false,
-                "info": "",
-                "input_types": [
-                  "Message"
-                ],
-                "list": false,
-                "list_add_label": "Add More",
-                "load_from_db": false,
-                "name": "lang",
-                "placeholder": "",
-                "required": false,
-                "show": true,
-                "title_case": false,
-                "tool_mode": false,
-                "trace_as_input": true,
-                "trace_as_metadata": true,
-                "type": "str",
-                "value": "pt"
-              },
-              "load_all_available_meta": {
-                "_input_type": "BoolInput",
-                "advanced": true,
-                "display_name": "Load all available meta",
-                "dynamic": false,
-                "info": "",
-                "list": false,
-                "list_add_label": "Add More",
-                "name": "load_all_available_meta",
-                "placeholder": "",
-                "required": false,
-                "show": true,
-                "title_case": false,
-                "tool_mode": false,
-                "trace_as_metadata": true,
-                "type": "bool",
-                "value": false
-              },
-              "tools_metadata": {
-                "_input_type": "ToolsInput",
-                "advanced": false,
-                "display_name": "Actions",
-                "dynamic": false,
-                "info": "Modify tool names and descriptions to help agents understand when to use each tool.",
-                "is_list": true,
-                "list_add_label": "Add More",
-                "name": "tools_metadata",
-                "placeholder": "",
-                "real_time_refresh": true,
-                "required": false,
-                "show": true,
-                "title_case": false,
-                "tool_mode": false,
-                "trace_as_metadata": true,
-                "type": "tools",
-                "value": [
-                  {
-                    "args": {
-                      "input_value": {
-                        "default": "",
-                        "description": "",
-                        "title": "Input Value",
-                        "type": "string"
-                      }
-                    },
-                    "description": "WikipediaComponent. fetch_content - Call Wikipedia API.",
-                    "display_description": "WikipediaComponent. fetch_content - Call Wikipedia API.",
-                    "display_name": "fetch_content",
-                    "name": "fetch_content",
-                    "readonly": false,
-                    "status": true,
-                    "tags": [
-                      "fetch_content"
-                    ]
-                  },
-                  {
-                    "args": {
-                      "input_value": {
-                        "default": "",
-                        "description": "",
-                        "title": "Input Value",
-                        "type": "string"
-                      }
-                    },
-                    "description": "WikipediaComponent. as_dataframe - Call Wikipedia API.",
-                    "display_description": "WikipediaComponent. as_dataframe - Call Wikipedia API.",
-                    "display_name": "as_dataframe",
-                    "name": "as_dataframe",
-                    "readonly": false,
-                    "status": true,
-                    "tags": [
-                      "as_dataframe"
-                    ]
-                  }
-                ]
-              }
-            },
-            "tool_mode": true
-          },
-          "showNode": true,
-          "type": "WikipediaComponent"
-        },
-        "dragging": false,
-        "id": "WikipediaComponent-uEuSr",
-        "measured": {
-          "height": 391,
-          "width": 320
-        },
-        "position": {
-          "x": 132.47332934977936,
-          "y": 1204.6843493827853
-        },
-        "selected": false,
-        "type": "genericNode"
-      },
-      {
-        "data": {
-          "id": "CalculatorComponent-WkZvF",
+          "id": "CalculatorComponent-M9o39",
           "node": {
             "base_classes": [
               "Data"
@@ -837,22 +557,21 @@
           "showNode": true,
           "type": "CalculatorComponent"
         },
-        "dragging": false,
-        "id": "CalculatorComponent-WkZvF",
+        "id": "CalculatorComponent-M9o39",
         "measured": {
           "height": 247,
           "width": 320
         },
         "position": {
-          "x": 139.33958711670027,
-          "y": 831.6585976340915
+          "x": 26.86625776692091,
+          "y": 275.15898661606457
         },
         "selected": false,
         "type": "genericNode"
       },
       {
         "data": {
-          "id": "URLComponent-oTEW7",
+          "id": "URLComponent-XlXvs",
           "node": {
             "base_classes": [
               "Data",
@@ -1195,21 +914,21 @@
           "type": "URLComponent"
         },
         "dragging": false,
-        "id": "URLComponent-oTEW7",
+        "id": "URLComponent-XlXvs",
         "measured": {
           "height": 357,
           "width": 320
         },
         "position": {
-          "x": 536.8415320265661,
-          "y": 1446.7405544946205
+          "x": 253.06127108513158,
+          "y": 633.2805460891107
         },
-        "selected": false,
+        "selected": true,
         "type": "genericNode"
       },
       {
         "data": {
-          "id": "Agent-wd1De",
+          "id": "Agent-PRXeJ",
           "node": {
             "base_classes": [
               "Message"
@@ -1389,7 +1108,7 @@
                 "dynamic": false,
                 "info": "API key for the Groq API.",
                 "input_types": [],
-                "load_from_db": true,
+                "load_from_db": false,
                 "name": "api_key",
                 "password": true,
                 "placeholder": "",
@@ -1863,22 +1582,21 @@
           "showNode": true,
           "type": "Agent"
         },
-        "dragging": false,
-        "id": "Agent-wd1De",
+        "id": "Agent-PRXeJ",
         "measured": {
           "height": 621,
           "width": 320
         },
         "position": {
-          "x": 1073.8178435714722,
-          "y": 608.4996110180269
+          "x": 961.3445142216929,
+          "y": 52
         },
         "selected": false,
         "type": "genericNode"
       },
       {
         "data": {
-          "id": "ChatOutput-CgCeF",
+          "id": "ChatOutput-sxzvv",
           "node": {
             "base_classes": [
               "Message"
@@ -2171,29 +1889,28 @@
           "showNode": false,
           "type": "ChatOutput"
         },
-        "dragging": false,
-        "id": "ChatOutput-CgCeF",
+        "id": "ChatOutput-sxzvv",
         "measured": {
           "height": 66,
           "width": 192
         },
         "position": {
-          "x": 1532.474469105386,
-          "y": 1300.5679512119998
+          "x": 1420.0011397556068,
+          "y": 744.0683401939729
         },
         "selected": false,
         "type": "genericNode"
       }
     ],
     "viewport": {
-      "x": 74.25009628803275,
-      "y": -386.4781195208184,
-      "zoom": 0.7169776240079128
+      "x": 261.6731034964494,
+      "y": 150.48167963834854,
+      "zoom": 0.6070974421975234
     }
   },
-  "description": "Exercicio 4\n",
+  "description": "Exercicio 4",
   "endpoint_name": null,
-  "id": "5759ea28-0ad5-47f6-8955-a218d010ace8",
+  "id": "f6b60f17-3db2-4e69-819c-56c846a876d7",
   "is_component": false,
   "last_tested_version": "1.4.3",
   "name": "Exercicio 4",
